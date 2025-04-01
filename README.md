@@ -1,4 +1,4 @@
-# Data Augmentation
+# Data Augmentation (cifar10)
 | (a) | (b) | (c) | (d) |     ACT     |
 |-----|-----|-----|-----|-------------|
 |  √  |  √  |  √  |  √  | 92.77 90.38 |
